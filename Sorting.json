@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Sorting",
+      "message": {
+        "embeds": [
+          {
+            "title": "Sorting",
+            "description": "Given a list of *n* numbers, sort them and output them one per line from smallest to largest",
+            "color": 65460,
+            "fields": [
+              {
+                "name": "Input Specifications",
+                "value": "The first line of the input contains a positive integer n no greater than 100, the number of numbers to follow.\n\nEach line after will have a single positive integer less than 32000."
+              },
+              {
+                "name": "Output Specifications",
+                "value": "Output the numbers in sorted order from smallest to largest, one per line.\n\n"
+              },
+              {
+                "name": "Sample Input",
+                "value": "4\n4\n3\n2\n1",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "1\n2\n3\n4",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **Sorting**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\n_This challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/735513163679662100/745115834216612000/avatarfinal.thumb.gif.6f7e3f9ad41759828a04b3eb8bfb589c.gif"
+            },
+            "timestamp": "2020-10-15T03:20:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
